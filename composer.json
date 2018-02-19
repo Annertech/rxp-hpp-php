@@ -23,7 +23,7 @@
     "php": ">=5.3.9",
     "apache/log4php": "2.3.*",
     "symfony/validator": "3.2.*",
-    "doctrine/annotations":"1.6.*",
+    "doctrine/annotations":"~1.0",
     "doctrine/cache":"1.6.*"
   },
   "autoload": {
